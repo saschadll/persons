@@ -1,13 +1,6 @@
 [
     {
         "welt insgesamt": "",
-        "landName": "7.684.292.383"
-    },
-    {
-        "welt insgesamt": ""
-    },
-    {
-        "welt insgesamt": "",
         "landName": "Europäische Union",
         "land": "453.007.803",
         "einwohnerzahl": "0",
@@ -1918,15 +1911,4 @@
         "weltrang": "0",
         "%": "000%"
     },
-    {
-        "welt insgesamt": "",
-        "landName": ""
-    },
-    {
-        "welt insgesamt": "\t\t\t"
-    },
-    {
-        "welt insgesamt": "                                                                                                                                \t\t\t\t\t\t",
-        "landName": ""
-    }
 ]
